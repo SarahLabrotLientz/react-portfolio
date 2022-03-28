@@ -38,6 +38,10 @@ const About = () => {
             <small> TechReport<br></br> MeVsU <br></br> Social Media Api</small>
             </article>
         </div>
+        <p> 
+          I am a digital advertising copywriter and UI/UX Designer seeking opportunities to bring brands to life. 
+        </p>
+        <a href="#contact" className='btn btn-primary'>Let's Talk</a>
       </div>
       </div>
     </section>
