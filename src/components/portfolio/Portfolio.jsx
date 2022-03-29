@@ -17,8 +17,10 @@ const Portfolio = () => {
             <img src={IMG1} alt=""/>          
             </div>
           <h3>The TECH REPORT</h3>
+          <div className="portfolio__item-cta">
           <a href="https://github.com/SarahLabrotLientz/THE_TECH_REPORT" className='btn'>Github</a>
           <a href="https://infinite-sierra-30164.herokuapp.com/" className='btn btn-primary'>Live Demo</a>
+          </div>
         </article>
         {/* item 2 */}
         <article className='portfolio__item'>
@@ -26,8 +28,10 @@ const Portfolio = () => {
             <img src={IMG2} alt=""/>          
             </div>
           <h3>The CODE QUIZ</h3>
+          <div className="portfolio__item-cta">
           <a href="https://github.com/SarahLabrotLientz/Code-Quiz" className='btn'>Github</a>
           <a href="https://sarahlabrotlientz.github.io/Code-Quiz/" className='btn btn-primary'>Live Demo</a>
+          </div>
         </article>
         {/* item 3 */}
         <article className='portfolio__item'>
@@ -35,8 +39,10 @@ const Portfolio = () => {
             <img src={IMG3} alt=""/>          
             </div>
           <h3>MYSQL CMS</h3>
+          <div className="portfolio__item-cta">
           <a href="https://github.com/SarahLabrotLientz/Employee-Profile-Generator" className='btn'>Github</a>
           <a href="https://watch.screencastify.com/v/WWa58kjBX4MilSudn3s3" className='btn btn-primary'>Live Demo</a>
+          </div>
         </article>
 
       </div>
