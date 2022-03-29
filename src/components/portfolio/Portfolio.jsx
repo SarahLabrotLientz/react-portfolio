@@ -18,8 +18,8 @@ const Portfolio = () => {
             </div>
           <h3>The TECH REPORT</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/SarahLabrotLientz/THE_TECH_REPORT" className='btn'>Github</a>
-          <a href="https://infinite-sierra-30164.herokuapp.com/" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/SarahLabrotLientz/THE_TECH_REPORT" target="_blank" className='btn'>Github</a>
+          <a href="https://infinite-sierra-30164.herokuapp.com/" target="_blank" className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
         {/* item 2 */}
@@ -29,8 +29,8 @@ const Portfolio = () => {
             </div>
           <h3>The CODE QUIZ</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/SarahLabrotLientz/Code-Quiz" className='btn'>Github</a>
-          <a href="https://sarahlabrotlientz.github.io/Code-Quiz/" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/SarahLabrotLientz/Code-Quiz" target="_blank" className='btn'>Github</a>
+          <a href="https://sarahlabrotlientz.github.io/Code-Quiz/" target="_blank" className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
         {/* item 3 */}
@@ -40,8 +40,8 @@ const Portfolio = () => {
             </div>
           <h3>MYSQL CMS</h3>
           <div className="portfolio__item-cta">
-          <a href="https://github.com/SarahLabrotLientz/Employee-Profile-Generator" className='btn'>Github</a>
-          <a href="https://watch.screencastify.com/v/WWa58kjBX4MilSudn3s3" className='btn btn-primary'>Live Demo</a>
+          <a href="https://github.com/SarahLabrotLientz/Employee-Profile-Generator" target="_blank" className='btn'>Github</a>
+          <a href="https://watch.screencastify.com/v/WWa58kjBX4MilSudn3s3" target="_blank" className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
 
