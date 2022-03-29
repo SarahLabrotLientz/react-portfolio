@@ -43,5 +43,44 @@
 }
 
 .service__list li {
-    
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+
 }
+
+.service__list-icon {
+    color: var(--color-primary);
+    margin-top: 2px;
+}
+
+.service__list p {
+    font-size: 0.9rem;
+
+}
+
+
+/* media queries */
+/* media queries(medium devices) */
+
+@media screen and (max-width: 1024px) {
+    .service__container {
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+    .service {
+        height: auto;
+    }
+     
+ }
+ 
+ /* media queries(small devices) */
+ 
+ @media screen and (max-width: 600px) {
+  .service__container {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+  }
+
+ }
+ 
