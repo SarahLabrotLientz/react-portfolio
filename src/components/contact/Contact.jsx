@@ -14,21 +14,21 @@ const Contact = () => {
         <div className="contact__options">
           {/* EMAIL */}
           <article className="contact__option">
-            <MdMailOutline/>
+            <MdMailOutline className="contact__option-icon"/>
             <h4>Email</h4>
             <h5>Sarah.Labrot@gmail.com</h5>
             <a href="mailto:Sarah.Labrot@gmail.com" target="_blank">Send a message</a>
           </article>
         {/* Messanger */}   
           <article className="contact__option">
-            <MdOutlineMessage/>
+            <MdOutlineMessage className="contact__option-icon"/>
             <h4>Messenger</h4>
             <h5>sarahlabrotlientz.slack.com</h5>
             <a href="https://sarahlabrotlientz.slack.com/archives/D02EJ9YPU59" target="_blank">Send a message</a>
           </article>
            {/* Discord */}
           <article className="contact__option">
-            <SiMessenger/>
+            <SiMessenger className="contact__option-icon"/>
             <h4>Discord</h4>
             <h5>MotherofDragons#3693</h5>
             <a href="https://discord.com/" target="_blank">Send a message</a>
