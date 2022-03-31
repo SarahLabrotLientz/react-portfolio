@@ -27,22 +27,12 @@ const Services = () => {
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Creative with prototypes and conducting research to test designs.</p>
+              <p>Expert knowledge of CSS.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
               <p>Classically trained artist with an intuition for webdesign.</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my abilities</p>
             </li>
 
           </ul>
@@ -57,33 +47,24 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Knowledgeable in both Backend and Frontend coding.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Georgia Tech Certified Coder.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>20+ repositories on GitHub.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Creative with prototypes and conducting research to test designs.</p>
             </li>
 
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my abilities</p>
-            </li>
 
           </ul>
         </article>
@@ -98,32 +79,22 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Over a decade of experience crafting innovative copy.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Well-versed working with high-profile clients such as MillerCoors, Kellogg's, Jaguar, etc.  </p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Comfortable presenting to large and small groups.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
-            </li>
-
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my abilities</p>
+              <p>Personanable and innovative.</p>
             </li>
 
           </ul>
