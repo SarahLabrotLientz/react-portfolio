@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Welcome to Sarah Labrot's REACT Porfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created with REACT and is a culmination of months and months of hard work during my time with Georgia Tech coding bootcamp. Enjoy!
 
-## Available Scripts
+## Portfolio Preview
 
-In the project directory, you can run:
+
+![TECHREPORT2](3.png)
+![TECHREPORT2](1.png)
+![TECHREPORT](2.png)
 
 ### `npm start`
 

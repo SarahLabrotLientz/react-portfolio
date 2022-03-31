@@ -54,6 +54,10 @@ input, textarea {
     color: var(--color-white);
 }
 
+button {
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+}
 /* media queries */
 /* media queries(medium devices) */
 

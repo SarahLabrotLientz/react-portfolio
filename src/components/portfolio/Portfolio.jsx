@@ -4,6 +4,10 @@ import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.png'
 
+import IMG4 from '../../assets/portfolio4.png'
+import IMG5 from '../../assets/portfolio5.png'
+import IMG6 from '../../assets/portfolio6.png'
+
 
 const Portfolio = () => {
   return (
@@ -42,6 +46,39 @@ const Portfolio = () => {
           <div className="portfolio__item-cta">
           <a href="https://github.com/SarahLabrotLientz/Employee-Profile-Generator" target="_blank" className='btn'>Github</a>
           <a href="https://watch.screencastify.com/v/WWa58kjBX4MilSudn3s3" target="_blank" className='btn btn-primary'>Live Demo</a>
+          </div>
+        </article>
+         {/* item 4 */}
+         <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG4} alt=""/>          
+            </div>
+          <h3>MY ANIME</h3>
+          <div className="portfolio__item-cta">
+          <a href="https://github.com/SarahLabrotLientz/MyAnime" target="_blank" className='btn'>Github</a>
+          <a href="https://sarahlabrotlientz.github.io/MyAnime/" target="_blank" className='btn btn-primary'>Live Demo</a>
+          </div>
+        </article>
+        {/* item 5 */}
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG5} alt=""/>          
+            </div>
+          <h3>ME vs U</h3>
+          <div className="portfolio__item-cta">
+          <a href="https://github.com/SarahLabrotLientz/ME-vs-U" target="_blank" className='btn'>Github</a>
+          <a href="https://drive.google.com/file/d/1TiS1dTVe8c9P8PACOCvahzIOs225Cjea/view" target="_blank" className='btn btn-primary'>Live Demo</a>
+          </div>
+        </article>
+        {/* item 6 */}
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG6} alt=""/>          
+            </div>
+          <h3>DAY PLANNER</h3>
+          <div className="portfolio__item-cta">
+          <a href="https://github.com/SarahLabrotLientz/work_day_planner" target="_blank" className='btn'>Github</a>
+          <a href="https://sarahlabrotlientz.github.io/work_day_planner/" target="_blank" className='btn btn-primary'>Live Demo</a>
           </div>
         </article>
 
