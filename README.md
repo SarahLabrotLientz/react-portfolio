@@ -4,10 +4,11 @@ This project was created with REACT and is a culmination of months and months of
 
 ## Portfolio Preview
 
+![readme1](src/assets/readme1.png)
+![readme2](src/assets/readme2.png)
+![readme3](src/assets/readme3.png)
+![readme4](src/assets/readme4.png)
 
-![TECHREPORT2](3.png)
-![TECHREPORT2](1.png)
-![TECHREPORT](2.png)
 
 ### `npm start`
 
@@ -68,6 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
