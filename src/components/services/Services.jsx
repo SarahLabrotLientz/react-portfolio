@@ -17,22 +17,22 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Professionally trained to create clean, beautiful, and user-centered designs.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Great with wireframes and working in a team environment.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Creative with prototypes and conducting research to test designs.</p>
             </li>
 
             <li>
               <BiCheck className='service__list-icon' />
-              <p>This is where i will go into further detail about my designing abilities</p>
+              <p>Classically trained artist with an intuition for webdesign.</p>
             </li>
 
             <li>
