@@ -63,6 +63,8 @@
     margin: 2rem 0 2.6rem;
     color: var(--color-light);
 
+
+
 }
 /* media queries */
 /* media queries(medium devices) */
@@ -80,6 +82,7 @@
     .about__content p {
         margin: 1rem 0 1.5rem;
     }
+   
      
  }
  
@@ -91,7 +94,7 @@
          margin: 0 auto 3rem;
      }
      .about__card {
-         grid-template-columns: 1fr 1fr;
+         grid-template-columns: 1fr;
          gap: 1rem;
      }
      .about__content {
@@ -101,5 +104,11 @@
          margin: 1.5rem 0;
      }
 
+     .about__card {
+        grid-template-columns: none;
+       
+    }
+
  }
+ 
  
